@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.0" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee                                             http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+    <jsp-config>
+        <jsp-property-group>
+            <url-pattern>*.jsp</url-pattern>
+            <scripting-invalid>true</scripting-invalid>
+        </jsp-property-group>
+    </jsp-config>
+    <context-param>
+        <param-name>custServEmail</param-name>
+        <param-value>custserv@murach.com</param-value>
+    </context-param>
+    <servlet>
+        <servlet-name>LoginController</servlet-name>
+        <servlet-class>shoes.controller.LoginController</servlet-class>
+    </servlet>
+    <welcome-file-list>
+        <!--<welcome-file>cart.jsp</welcome-file>-->
+        <!--<welcome-file>category.jsp</welcome-file>-->
+        <!--        <welcome-file>index.jsp</welcome-file>
+        <welcome-file>category.jsp</welcome-file>-->
+        <welcome-file>loadingIndex</welcome-file>
+        <welcome-file>editProfile.jsp</welcome-file>
+        <welcome-file>cart.jsp</welcome-file>
+        <welcome-file>EditUser.jsp</welcome-file>
+    </welcome-file-list>
+    <session-config>
+        <session-timeout>30</session-timeout>
+    </session-config>
+</web-app>

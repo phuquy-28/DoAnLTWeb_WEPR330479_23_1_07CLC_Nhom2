@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/DaiHoc/Nam3/Web/FinalProject1/shoes_store/src/java/shoes/controller/PaymentController.java</file>
+            <file>file:/D:/DaiHoc/Nam3/Web/FinalProject1/shoes_store/src/java/shoes/data/ShoesDB.java</file>
+            <file>file:/D:/DaiHoc/Nam3/Web/FinalProject1/shoes_store/src/java/shoes/controller/CheckoutOnlineController.java</file>
+            <file>file:/D:/DaiHoc/Nam3/Web/FinalProject1/shoes_store/src/java/shoes/controller/CartController.java</file>
+            <file>file:/D:/DaiHoc/Nam3/Web/FinalProject1/shoes_store/web/vnpay_pay.jsp</file>
+            <file>file:/D:/DaiHoc/Nam3/Web/FinalProject1/shoes_store/web/DetailProduct.jsp</file>
+            <file>file:/D:/DaiHoc/Nam3/Web/FinalProject1/shoes_store/src/java/shoes/controller/LoginController.java</file>
+            <file>file:/D:/DaiHoc/Nam3/Web/FinalProject1/shoes_store/src/java/shoes/controller/LoadingIndex.java</file>
+            <file>file:/D:/DaiHoc/Nam3/Web/FinalProject1/shoes_store/web/header.jsp</file>
+            <file>file:/D:/DaiHoc/Nam3/Web/FinalProject1/shoes_store/src/java/shoes/business/sImage.java</file>
+            <file>file:/D:/DaiHoc/Nam3/Web/FinalProject1/shoes_store/src/java/shoes/data/Config.java</file>
+            <file>file:/D:/DaiHoc/Nam3/Web/FinalProject1/shoes_store/src/java/shoes/controller/ajaxServlet.java</file>
+            <file>file:/D:/DaiHoc/Nam3/Web/FinalProject1/shoes_store/web/DetailedInvoice.jsp</file>
+        </group>
+        <group name="web-programming">
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store_final/src/java/shoes/data/Config.java</file>
+        </group>
+    </open-files>
+</project-private>
