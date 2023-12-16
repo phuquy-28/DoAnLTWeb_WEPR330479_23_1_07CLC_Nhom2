@@ -1,0 +1,91 @@
+a {
+    text-decoration: none;
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+.custom-control-input:checked {
+    background-color: black; /* Màu nền của checkbox khi được chọn */
+    border-color: black; /* Màu viền của checkbox khi được chọn */
+    color: white; /* Màu chữ trong checkbox khi được chọn */
+}
+
+.form-inputs{
+    position:relative;
+}
+.form-inputs .form-control{
+    height:45px;
+}
+
+.form-inputs .form-control:focus{
+    box-shadow:none;
+    border:1px solid #000;
+}
+
+.form-inputs i{
+    position:absolute;
+    right:10px;
+    top:15px;
+}
+
+/*cart*/
+.ui-w-40 {
+    width: 40px !important;
+    height: auto;
+}
+
+.card{
+    box-shadow: 0 1px 15px 1px rgba(52,40,104,.08);    
+}
+
+.ui-product-color {
+    display: inline-block;
+    overflow: hidden;
+    margin: .144em;
+    width: .875rem;
+    height: .875rem;
+    border-radius: 10rem;
+    -webkit-box-shadow: 0 0 0 1px rgba(0,0,0,0.15) inset;
+    box-shadow: 0 0 0 1px rgba(0,0,0,0.15) inset;
+    vertical-align: middle;
+}
+/*PAGE*/
+.pagination {
+    float: right;
+    margin: 0 0 5px;
+}
+.pagination li a {
+    border: none;
+    font-size: 13px;
+    min-width: 30px;
+    min-height: 30px;
+    color: black;
+    margin: 0 2px;
+    line-height: 30px;
+    text-align: center;
+    padding: 0 6px;
+}
+.pagination li a:hover {
+    color: white;
+    background: black;
+}	
+.pagination li.active a, .pagination li.active a.page-link {
+    background: black;
+}
+.pagination li.active a:hover {        
+    background: black;
+    color: white;
+}
+.pagination li.disabled i {
+    color: black;
+}
+.pagination li i {
+    font-size: 16px;
+    padding-top: 6px
+}
+.hint-text {
+    float: left;
+    margin-top: 10px;
+    font-size: 13px;
+}    

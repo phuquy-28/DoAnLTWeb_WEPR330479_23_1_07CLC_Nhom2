@@ -1,0 +1,14 @@
+body {
+    background-color: #fafafa
+}
+
+a {
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+.required-field::after {
+    content: '*';
+    color: red;
+}

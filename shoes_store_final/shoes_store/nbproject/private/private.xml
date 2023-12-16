@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="web-programming">
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/web/Edit.jsp</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/web/ManagerAccount.jsp</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/web/category.jsp</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/src/java/shoes/business/ShoeSize.java</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/web/ManagerInvoice.jsp</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/web/DetailProduct.jsp</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/src/java/shoes/controller/LoadProductShop.java</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/web/shop.jsp</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/src/java/shoes/controller/LoadProductAdmin.java</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/src/java/shoes/controller/LoadEditProduct.java</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/web/header.jsp</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/src/java/shoes/data/DBUtil.java</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/web/ManagerProduct.jsp</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/src/java/shoes/data/ShoesDB.java</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/src/java/shoes/data/ReportDB.java</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/src/java/shoes/data/UserDB.java</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/src/java/shoes/controller/SearchingAdmin.java</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/src/java/shoes/business/sImage.java</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/src/java/shoes/controller/ExportController.java</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/src/java/shoes/controller/EditProduct.java</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/src/java/shoes/controller/AddProduct.java</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/src/java/shoes/controller/SendEmailController.java</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/web/cart.jsp</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/src/java/shoes/business/Shoes.java</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/src/java/shoes/data/PopulateDatabase.java</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/src/java/shoes/controller/LoadMoreController.java</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/src/java/shoes/data/InvoiceDB.java</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/src/java/shoes/controller/LoadProductDetail.java</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/src/java/shoes/business/User.java</file>
+            <file>file:/C:/Users/phuqu/Desktop/New%20folder/shoes_store%20(1)/web/index.jsp</file>
+        </group>
+    </open-files>
+</project-private>
